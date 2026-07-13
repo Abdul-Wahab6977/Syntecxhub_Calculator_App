@@ -100,7 +100,7 @@ flutter doctor
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/<your-username>/Syntecxhub_Calculator_App.git
+   git clone https://github.com/Abdul-Wahab6977/Syntecxhub_Calculator_App.git
    cd Syntecxhub_Calculator_App
    ```
 
